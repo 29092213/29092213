@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E2A38&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
 
 ## Olá, me chamo Luiz, um apaixonado por programação, e estou aqui para desbravar esse mundo maravilhoso!
 
