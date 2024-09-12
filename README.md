@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
+
 ## Olá, me chamo Luiz, um apaixonado por programação, e estou aqui para desbravar esse mundo maravilhoso!
 
 Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e aprendizado para dominar a linguagem Java.
@@ -9,12 +11,25 @@ Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e ap
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=1E2A38&color=00ffff&line=00ffff&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Principais habilidades:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+### Estudando no Momento:
+![Estudando Java](https://img.shields.io/badge/Estudando-Java-yellow?style=for-the-badge&logo=java)&nbsp;
+![Estudando Spring Boot](https://img.shields.io/badge/Estudando-Spring%20Boot-yellow?style=for-the-badge&logo=spring)&nbsp;
+
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
+
+### Repositórios em Destaque:
+- [Demo CEP API](https://github.com/29092213/demo-cep-api): API de busca de CEPs desenvolvida em Spring Boot.
+- [Spring Boot Project](https://github.com/29092213/springboot): Projeto desenvolvido com Spring Boot para estudo e aprendizado.
+
+### Ferramentas e Tecnologias:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
 
 ## Contato:
 <div> 
