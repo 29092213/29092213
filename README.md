@@ -1,5 +1,7 @@
 ## Olá, me chamo Luiz, um apaixonado por programação, e estou aqui para desbravar esse mundo maravilhoso!
 
+Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e aprendizado para dominar a linguagem Java.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
