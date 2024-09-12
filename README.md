@@ -1,19 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E2A38&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=617b8c&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
 
 ## Olá, me chamo Luiz, um apaixonado por programação, e estou aqui para desbravar esse mundo maravilhoso!
 
 Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e aprendizado para dominar a linguagem Java.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=1E2A38&text_color=000000&bg_color=E6ECF0" alt="GitHub Stats de Luiz" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=617b8c&text_color=000000&bg_color=E6ECF0" alt="GitHub Stats de Luiz" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0" alt="Linguagens Mais Usadas"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=1E2A38&line=1E2A38&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=617b8c&line=617b8c&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Estudando no Momento:
-![Estudando Java](https://img.shields.io/badge/Estudando-Java-1E2A38?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Estudando Spring Boot](https://img.shields.io/badge/Estudando-Spring%20Boot-1E2A38?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Estudando Java](https://img.shields.io/badge/Estudando-Java-617b8c?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Estudando Spring Boot](https://img.shields.io/badge/Estudando-Spring%20Boot-617b8c?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
 
@@ -33,6 +33,6 @@ Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e ap
 
 ## Contato:
 <div> 
-  <a href = "mailto:luizjdf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1E2A38?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1E2A38?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizjdf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-617b8c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-617b8c?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
