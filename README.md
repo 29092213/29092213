@@ -3,11 +3,11 @@
 Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e aprendizado para dominar a linguagem Java.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats de Luiz" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens Mais Usadas"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=1E2A38" alt="GitHub Stats de Luiz" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=1E2A38" alt="Linguagens Mais Usadas"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=0d1117&color=00ffff&line=00ffff&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=1E2A38&color=00ffff&line=00ffff&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Principais habilidades:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
