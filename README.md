@@ -19,7 +19,7 @@ Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e ap
 
 ### Repositórios em Destaque:
 - [Demo CEP API](https://github.com/29092213/demo-cep-api): API de busca de CEPs desenvolvida em Spring Boot.
-- [Spring Boot Project](https://github.com/29092213/springboot): Projeto desenvolvido com Spring Boot para estudo e aprendizado.
+- [Spring Boot Project](https://github.com/29092213/springboot): Crud, usando Springboot.
 
 ### Ferramentas e Tecnologias:
 <div style="display: inline_block"><br>
@@ -28,7 +28,6 @@ Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e ap
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 ## Contato:
