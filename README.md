@@ -1,37 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=617b8c&height=120&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
+<!-- Cabeçalho de boas-vindas -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=617b8c&height=160&section=header&text=Bem-vindo!&fontSize=40&fontColor=FFFFFF" />
 
-## Olá, me chamo Luiz, um apaixonado por programação, e estou aqui para desbravar esse mundo maravilhoso!
+<!-- Introdução -->
+<div align="center">
+  <h2>Olá, me chamo Luiz, um apaixonado por programação!</h2>
+  <p>Sou um programador back-end e, através deste perfil, irei compartilhar minha jornada e aprendizado para dominar a linguagem Java e outras tecnologias fascinantes!</p>
+</div>
 
-Sou um programador back-end, e nesse perfil irei compartilhar o meu caminho e aprendizado para dominar a linguagem Java.
-
+<!-- Estatísticas do GitHub -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=617b8c&text_color=000000&bg_color=E6ECF0" alt="GitHub Stats de Luiz" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0" alt="Linguagens Mais Usadas"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=617b8c&text_color=000000&bg_color=E6ECF0&border_radius=10" alt="GitHub Stats de Luiz" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0&border_radius=10" alt="Linguagens Mais Usadas"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=617b8c&line=617b8c&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Gráfico de Atividades -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=617b8c&line=617b8c&point=617b8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Estudando no Momento:
-![Estudando Java](https://img.shields.io/badge/Estudando-Java-617b8c?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Estudando Spring Boot](https://img.shields.io/badge/Estudando-Spring%20Boot-617b8c?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
-
-### Repositórios em Destaque:
-- [Demo CEP API](https://github.com/29092213/demo-cep-api): API de busca de CEPs desenvolvida em Spring Boot.
-- [Spring Boot Project](https://github.com/29092213/springboot): Crud desenvolvido em Spring Boot.
-
-### Ferramentas e Tecnologias:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<!-- Estudando no momento -->
+<h3>Estudando no Momento:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Estudando-Java-617b8c?style=for-the-badge&logo=java&logoColor=white" alt="Estudando Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Estudando-Spring%20Boot-617b8c?style=for-the-badge&logo=spring&logoColor=white" alt="Estudando Spring Boot"/>
 </div>
 
-## Contato:
-<div> 
-  <a href = "mailto:luizjdf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-617b8c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-617b8c?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!-- GIF para adicionar um toque divertido -->
+<div align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" alt="GIF programando"/>
+</div>
+
+<!-- Repositórios em Destaque -->
+<h3>Repositórios em Destaque:</h3>
+<ul>
+  <li><a href="https://github.com/29092213/demo-cep-api"><strong>Demo CEP API</strong></a>: API para consulta de CEPs desenvolvida em Spring Boot, utilizando boas práticas REST.</li>
+  <li><a href="https://github.com/29092213/springboot"><strong>Spring Boot Project</strong></a>: CRUD completo em Spring Boot com integração a banco de dados MySQL e autenticação com JWT.</li>
+</ul>
+
+<!-- Ferramentas e Tecnologias -->
+<h3>Ferramentas e Tecnologias:</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+</div>
+
+<!-- Contato -->
+<h3>Contato:</h3>
+<div align="center">
+  <a href="mailto:luizjdf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-617b8c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/luiz-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-617b8c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
