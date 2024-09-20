@@ -17,8 +17,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=617b8c&line=617b8c&point=617b8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Estudando no momento -->
-<h3>Estudando no Momento:</h3>
 <div align="center">
+  <h3>Estudando no Momento:</h3>
   <img src="https://img.shields.io/badge/Estudando-Java-617b8c?style=for-the-badge&logo=java&logoColor=white" alt="Estudando Java"/>&nbsp;
   <img src="https://img.shields.io/badge/Estudando-Spring%20Boot-617b8c?style=for-the-badge&logo=spring&logoColor=white" alt="Estudando Spring Boot"/>
 </div>
@@ -29,15 +29,17 @@
 </div>
 
 <!-- Repositórios em Destaque -->
-<h3>Repositórios em Destaque:</h3>
-<ul>
-  <li><a href="https://github.com/29092213/demo-cep-api"><strong>Demo CEP API</strong></a>: API para consulta de CEPs desenvolvida em Spring Boot, utilizando boas práticas REST.</li>
-  <li><a href="https://github.com/29092213/springboot"><strong>Spring Boot Project</strong></a>: CRUD completo em Spring Boot com integração a banco de dados MySQL e autenticação com JWT.</li>
-</ul>
+<div align="center">
+  <h3>Repositórios em Destaque:</h3>
+  <ul>
+    <li><a href="https://github.com/29092213/demo-cep-api"><strong>Demo CEP API</strong></a>: API para consulta de CEPs desenvolvida em Spring Boot, utilizando boas práticas REST.</li>
+    <li><a href="https://github.com/29092213/springboot"><strong>Spring Boot Project</strong></a>: CRUD completo em Spring Boot com integração a banco de dados MySQL e autenticação com JWT.</li>
+  </ul>
+</div>
 
 <!-- Ferramentas e Tecnologias -->
-<h3>Ferramentas e Tecnologias:</h3>
 <div align="center">
+  <h3>Ferramentas e Tecnologias:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -46,8 +48,8 @@
 </div>
 
 <!-- Contato -->
-<h3>Contato:</h3>
 <div align="center">
+  <h3>Contato:</h3>
   <a href="mailto:luizjdf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-617b8c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/luiz-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-617b8c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
