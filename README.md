@@ -51,3 +51,10 @@
   <a href="mailto:luizjdf13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-617b8c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/luiz-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-617b8c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohs4C85qZGsGxNFWk/giphy.gif" width="200" alt="Sonic correndo"/>
+</div>
+
