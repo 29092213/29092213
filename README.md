@@ -55,6 +55,5 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4C85qZGsGxNFWk/giphy.gif" width="200" alt="Sonic correndo"/>
+  <img src="https://media.giphy.com/media/U7zTzrCoazNLa/giphy.gif" width="200" alt="Luffy correndo"/>
 </div>
-
