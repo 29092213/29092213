@@ -33,6 +33,9 @@
 <ul>
   <li><a href="https://github.com/29092213/demo-cep-api"><strong>Demo CEP API</strong></a>: API para consulta de CEPs desenvolvida em Spring Boot, utilizando boas práticas REST.</li>
   <li><a href="https://github.com/29092213/springboot"><strong>Spring Boot Project</strong></a>: CRUD completo em Spring Boot com integração a banco de dados MySQL e autenticação com JWT.</li>
+  <li><a href="https://github.com/29092213/HackerRank-Challenges2"><strong>Desafios HackerRank</strong></a>: Repositório dedicado ao armazenamento e organização dos desafios resolvidos do HackerRank.
+</li>
+
 </ul>
 
 <!-- Ferramentas e Tecnologias -->
