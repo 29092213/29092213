@@ -13,8 +13,22 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0&border_radius=10" alt="Linguagens Mais Usadas"/>
 </div>
 
-<!-- Gráfico de Atividades -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=617b8c&line=617b8c&point=617b8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Gráfico de Atividades 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=29092213&bg_color=E6ECF0&color=617b8c&line=617b8c&point=617b8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<div align="center">
+<picture style="margin-rigth: 100px;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+</div>
 
 <!-- Estudando no momento -->
 <div align="center">
@@ -50,17 +64,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 
 
 <!-- Contato -->
