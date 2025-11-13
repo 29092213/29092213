@@ -3,7 +3,7 @@
 
 <!-- Introdução -->
 <div align="center">
-  <h2>Olá, me chamo Luiz, um apaixonado por programação!</h2>
+  <h2>Olá, me chamo Luiz, E seja Bem-vindo ao meu Mundo!!</h2>
   <p>Sou um programador back-end e, através deste perfil, irei compartilhar minha jornada e aprendizado para dominar a linguagem Java e outras tecnologias fascinantes!</p>
 </div>
 
@@ -44,10 +44,24 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="Rabbit-MQ" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Kafa" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 
 <!-- Contato -->
 <h3 align="center">Contato:</h3>
