@@ -8,9 +8,40 @@
 </div>
 
 <!-- Estatísticas do GitHub -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=617b8c&text_color=000000&bg_color=E6ECF0&border_radius=10" alt="GitHub Stats de Luiz" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0&border_radius=10" alt="Linguagens Mais Usadas"/>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00b457&text_color=ffffff&bg_color=0d1117&border_radius=10&show=reviews,prs_merged,issues_closed"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=617b8c&text_color=000000&bg_color=E6ECF0&border_radius=10&show=reviews,prs_merged,issues_closed"
+    />
+    <img
+      width="49%"
+      height="195px"
+      alt="GitHub Stats de Luiz"
+      src="https://github-readme-stats.vercel.app/api?username=29092213&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=617b8c&text_color=000000&bg_color=E6ECF0&border_radius=10&show=reviews,prs_merged,issues_closed"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_radius=10"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0&border_radius=10"
+    />
+    <img
+      width="41%"
+      height="195px"
+      alt="Linguagens Mais Usadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=29092213&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=E6ECF0&border_radius=10"
+    />
+  </picture>
 </div>
 
 <!-- Gráfico de Atividades 
@@ -62,6 +93,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="Rabbit-MQ" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Kafa" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="pgsql" width="40" height="40" />
+   <img src="https://www.svgrepo.com/show/373623/git.svg" alt="GIT" width="40" height="40" />
 </div>
 
 
