@@ -93,7 +93,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="Rabbit-MQ" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Kafa" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="pgsql" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40" />
    <img src="https://www.svgrepo.com/show/373623/git.svg" alt="GIT" width="40" height="40" />
 </div>
 
